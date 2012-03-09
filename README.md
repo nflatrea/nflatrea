@@ -18,3 +18,4 @@ I do hardware and software security research, mostly for fun but sometimes for p
 ### How can you contact me ?
 
 You can find me on [Twitter](https://twitter.com/nflatrea), [Mastodon](https://infosec.exchange/@nflatrea)
+You may also find be writing something [here](https://nflatrea.bearblog.dev) whenever I feel like it...
