@@ -22,6 +22,7 @@ You may also find be writing something [here](https://nflatrea.bearblog.dev) whe
 
 **Need privacy** ? You can find my public key [online](https://keys.openpgp.org/search?q=nflatrea%40mailo.com) or bellow :
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: A34F 8EF1 20A1 E177 588C  74EC 5692 E703 63D2 C426
 Comment: Noë Flatreaud <nflatrea@mailo.com>
@@ -37,3 +38,4 @@ DAAKCRBWkucDY9LEJlY0AP0a3K8k2TrK6bo9oB9VHlqgiB7k9ocrewJc2DnyO3Ae
 IwD/USvjJseBzFCvWf676gJvCpgtDSKD7TJoXJkD1VuKKAs=
 =Gsyx
 -----END PGP PUBLIC KEY BLOCK-----
+```
